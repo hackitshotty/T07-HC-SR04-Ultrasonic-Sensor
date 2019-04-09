@@ -1,5 +1,5 @@
-# Maker's Digest - <TITLE>
-### <DESC>
+# Maker's Digest - HC-SR04 Ultrasonic Sensor
+### How to connect the HC-SR04 Ultrasonic Sensor to Raspberry PI & Arduino
 
 This repository is companion to the video below:
 
