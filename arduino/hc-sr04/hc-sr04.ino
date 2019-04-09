@@ -9,9 +9,6 @@ int echoPin = 12;
 
 long duration, cm, in, mm;
 
-
-/* End Optional */
-
 void setup() {
   Serial.begin(19200);
   Serial.println("Makers Digest: Ready");
@@ -30,8 +27,8 @@ void loop() {
   delayMicroseconds(5);                   // Wait 5 microseconds
   
   digitalWrite(triggerPin, HIGH);         // Set pin to HIGH
-  delayMicroseconds(10);                  // Wait 10 microseconds (10ms HIGH pulse)
-  digitalWrite(triggerPin, LOW);          // Set pin to LOW (End 10ms HIGH pulse)
+  delayMicroseconds(10);                  // Wait 10 microseconds (10us HIGH pulse)
+  digitalWrite(triggerPin, LOW);          // Set pin to LOW (End 10us HIGH pulse)
 
   duration = pulseIn(echoPin, HIGH);      // Read how long it takes for the pin
                                           // to go from LOW to HIGH. 
