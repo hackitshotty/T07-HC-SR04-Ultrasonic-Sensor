@@ -1,1 +1,1 @@
-![Pinout](arduino/PinoutScreen-arduino-github.png)
+![Pinout](/arduino/PinoutScreen-arduino-github.png)
