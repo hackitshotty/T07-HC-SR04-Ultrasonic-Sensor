@@ -1,1 +1,1 @@
-!(Pinout)[/raspberry-pi/PinoutScreen-raspi-github.png]
+![Pinout](/raspberry-pi/PinoutScreen-raspi-github.png)
