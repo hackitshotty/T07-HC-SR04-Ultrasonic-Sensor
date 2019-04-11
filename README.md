@@ -3,7 +3,7 @@
 
 This repository is companion to the video below:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/<VID_ID>/0.jpg)](https://www.youtube.com/watch?v=<VID_ID>)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ajci6GDOYPw/0.jpg)](https://www.youtube.com/watch?v=ajci6GDOYPw)
 
 ## [Arduino](/arduino)
 The arduino code can be loaded into the arduino IDE by either downloading or cloning this repository and opening the .ino file in the arduino IDE.
